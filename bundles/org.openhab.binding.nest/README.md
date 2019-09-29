@@ -1,5 +1,16 @@
 # Nest Binding
 
+https://developers.nest.com/
+
+"Notice: Updates to Works with Nest
+At Google Nest, we're reimagining how technology and services can deliver simple and helpful experiences in the home to do more for users and focus on delivering a single consumer and developer experience through the Works with Google Assistant program. To minimize disruptions during this transition, we're committed to supporting the integrations users value. So here’s our plan for retiring Works with Nest (WWN):
+
+Existing devices and integrations will continue working with a Nest Account, however users won't have access to new features that will be available with a Google Account.
+We'll stop accepting new WWN connections on August 31, 2019. Once WWN functionality is available on the WWGA platform users can migrate with minimal disruption from a Nest Account to a Google Account.
+To learn more, see our What's Happening FAQ page and updates to Works with Nest blog."
+
+
+
 The Nest binding integrates devices by [Nest](https://nest.com) using the [Nest API](https://developers.nest.com/documentation/cloud/get-started) (REST).
 
 Because the Nest API runs on Nest's servers a connection with the Internet is required for sending and receiving information.
